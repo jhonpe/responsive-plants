@@ -1,6 +1,6 @@
 # Website Plants
 
-![Website Plants](./img/img)
+![Website Plants](./img/img.jpg)
 
 Proyecto Website Plants, Desarrollado totalmente para dispositivos móviles
 
